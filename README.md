@@ -1,5 +1,5 @@
-[![Python Versions](https://img.shields.io/pypi/pyversions/wireframe?style=plastic)](https://pypi.org/project/wireframe/)
-[![PyPI](https://img.shields.io/pypi/v/wireframe?style=plastic)](https://pypi.org/project/wireframe/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/wireframe?style=plastic)](https://pypi.org/project/silhouette2wireframe/)
+[![PyPI](https://img.shields.io/pypi/v/wireframe?style=plastic)](https://pypi.org/project/silhouette2wireframe/)
 [![License](https://img.shields.io/pypi/l/wireframe?style=plastic)](https://opensource.org/licenses/MIT)
 
 # silhouette2wireframe
@@ -9,14 +9,14 @@
 
 # Installation
 ```
-pip install wireframe
+pip install silhouette2wireframe
 ```
 
 
 # Convert silhouette image to a wireframe
 
 ```
-from wireframe import ImageToWireframe
+from silhouette2wireframe import ImageToWireframe
 
 converter = ImageToWireframe("silhouette.png", size=(1080,1350))
 
