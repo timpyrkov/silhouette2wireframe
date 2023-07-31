@@ -2,7 +2,7 @@
 [![PyPI](https://img.shields.io/pypi/v/wireframe?style=plastic)](https://pypi.org/project/wireframe/)
 [![License](https://img.shields.io/pypi/l/wireframe?style=plastic)](https://opensource.org/licenses/MIT)
 
-# wireframe
+# silhouette2wireframe
 
 ## Convert silhouette image to wireframe distorted by Perlin noise
 #

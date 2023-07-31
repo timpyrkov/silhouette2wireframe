@@ -6,7 +6,7 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name="wireframe",
+    name="silhouette2wireframe",
     version="0.0.1",
     author="Tim Pyrkov",
     author_email="tim.pyrkov@gmail.com",
@@ -14,7 +14,7 @@ setup(
     long_description=read("README.md"),
     license = "MIT License",
     long_description_content_type="text/markdown",
-    url="https://github.com/timpyrkov/wireframe",
+    url="https://github.com/timpyrkov/silhouette2wireframe",
     packages=find_packages(exclude=("docs")),
     classifiers=[
         "Programming Language :: Python :: 3",
