@@ -608,7 +608,7 @@ class ImageToWireframe():
         # Mix noisy and displaced x and y periodically
         phi = np.pi + (i - x - y) * 2 * np.pi / len(self.px)
         per = 0.9 * np.power((1 + np.cos(phi)) / 2, 2)
-        f = 0.7 * ((level > 0.3) | (value > 0)).astype(float)
+        f = 0.6 * ((level > 0.3) | (value > 0)).astype(float)
         mask = f > 0
         per[~mask] = 0
         f = np.max(np.stack([f, per]), axis=0)
