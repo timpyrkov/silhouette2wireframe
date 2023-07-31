@@ -1,6 +1,6 @@
-[![Python Versions](https://img.shields.io/pypi/pyversions/wireframe?style=plastic)](https://pypi.org/project/silhouette2wireframe/)
-[![PyPI](https://img.shields.io/pypi/v/wireframe?style=plastic)](https://pypi.org/project/silhouette2wireframe/)
-[![License](https://img.shields.io/pypi/l/wireframe?style=plastic)](https://opensource.org/licenses/MIT)
+[![Python Versions](https://img.shields.io/pypi/pyversions/silhouette2wireframe?style=plastic)](https://pypi.org/project/silhouette2wireframe/)
+[![PyPI](https://img.shields.io/pypi/v/silhouette2wireframe?style=plastic)](https://pypi.org/project/silhouette2wireframe/)
+[![License](https://img.shields.io/pypi/l/silhouette2wireframe?style=plastic)](https://opensource.org/licenses/MIT)
 
 # silhouette2wireframe
 
