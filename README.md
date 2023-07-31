@@ -25,7 +25,7 @@ fig = converter.draw_frame(0, cdict=colors)
 plt.show()
 ```
 
-![](img/silhouette.png)
-![](img/arrow.png)
-![](img/wireframe.jpg)
+![](https://github.com/timpyrkov/silhouette2wireframe/blob/master/img/silhouette.png?raw=true)
+![](https://github.com/timpyrkov/silhouette2wireframe/blob/master/img/arrow.png?raw=true)
+![](https://github.com/timpyrkov/silhouette2wireframe/blob/master/img/wireframe.jpg?raw=true)
 

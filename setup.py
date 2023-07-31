@@ -7,7 +7,7 @@ def read(fname):
 
 setup(
     name="silhouette2wireframe",
-    version="0.0.1",
+    version="0.0.2",
     author="Tim Pyrkov",
     author_email="tim.pyrkov@gmail.com",
     description="Convert silhouette image to wireframe distorted by Perlin noise",
